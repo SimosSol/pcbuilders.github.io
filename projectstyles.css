@@ -1,0 +1,226 @@
+body{
+    background-color: rgb(63, 63, 63);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }    
+    img{
+       position: absolute; 
+       top: 0px; 
+       left: 0px; 
+       display: block;
+       margin: 0 auto;
+    }
+    .logo{
+        position: relative;
+        width: 800px;
+        height: 70px;
+        padding-top: 18px;
+
+    }
+    nav{
+        background-color: rgb(48, 48, 48);
+        color: rgb(221, 171, 8);
+        display: block;
+        position: absolute;
+        top: 110px;
+        padding: 15px;
+        font-weight: bold;
+        left: 0px;
+        right: 0px;
+        text-align: center
+    }
+    nav a
+    {
+        color: rgb(223, 164, 37);
+        text-decoration: none;
+        font-size: 25px;
+
+    }
+    nav a:hover{
+        background: rgb(114, 113, 113);
+        color: #fff;
+    }
+    div{
+        padding-top: 60px;
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-bottom: auto;
+        max-width: 1365px;
+        margin: auto;
+    } 
+    p{
+        font-size: 23px;
+        color: rgb(223, 164, 37);
+        text-align: left;
+    }
+    .firstimg{
+        position: relative;
+        float: right;
+        width: 550px;
+        height: 390px;
+    
+    }
+
+    h1{
+        font-size: 44px;
+        color: rgb(223, 164, 37);
+        text-align: center;
+    }
+    h2{
+        font-size: 38px;
+        color: rgb(223, 164, 37);
+        text-align: center;
+    } 
+    footer{
+        position: absolute;
+        height: 60px;
+        background-color: rgb(37, 37, 37);
+        color: rgb(223, 151, 45);
+        display: block;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-weight: bold;
+        left: 0px;
+        right: 0px;
+        text-align: center;
+        }
+    footer a{
+        color: rgb(223, 164, 37);
+        text-decoration: none;
+    } 
+    footer a:hover{
+        background: rgb(114, 113, 113);
+        color: #fff;
+    }   
+    iframe{
+        margin-top: 60px;
+        display: block;
+        margin: auto;
+    }   
+    .parts{
+        position: relative;
+        float: right;
+        height: 350px;
+        width: 650px;
+    }
+    .partpics{
+        height: 710px;
+        width: 1365px;
+        position: relative;
+        float: inline-start;
+    } 
+    .p1{
+        padding-bottom: 100px;
+    }
+    table, th, td {
+        border: 2px solid rgb(255, 255, 255);
+        border-collapse: collapse;
+        text-align: center;
+        color:rgb(223, 151, 45);
+        padding: 10px;
+    }    
+    table a {
+        color:rgb(223, 151, 45);
+        text-decoration: none;
+        
+    }    
+    table a:hover{
+        text-decoration: underline ;
+        color: #fff; 
+    }
+    caption {
+        font-size: 22px;
+        font-weight: bold;
+    
+    }
+    .pc1 {
+        position: relative;
+        float: right;
+        height: 300px;
+        width: 450px;
+    }
+    .pc2 {
+        position: relative;
+        float: right;
+        height: 300px;
+        width: 450px;
+    }
+    .pc3 {
+        position: relative;
+        float: right;
+        height: 320px;
+        width: 450px;
+    }
+    .p1{
+        padding-bottom: 100px;
+     }
+     .v1{ 
+        overflow:auto;
+        
+     }
+
+    .l1{
+        color:white;
+        text-decoration: none;
+     }
+    .wimg{
+        position:relative;
+        display:block;
+        float:right;
+        height:400px;
+        width:700px;
+        margin-right:100px;
+        margin-left:15px;
+
+    }
+    .wimg2{ 
+        position:relative;
+        display: block;
+        float:left;
+        height:400px;
+        width:700px;
+        margin-right: 15px;
+
+        
+    }
+
+    .att{
+        color:red;
+        font-size:24px;
+        text-decoration:underline;
+
+
+    }
+
+    h4{
+        font-size:200%;
+        color:#FA8072;
+        text-decoration:underline;
+    }
+
+    .wimg3{
+        position:relative;
+        display:block;
+        height:400px;
+        width:700px;
+        float:left;
+        margin-right:15px;
+        padding-top:15px;
+    }
+     
+    .tp{
+        overflow:auto;
+        margin-top:100px;
+        margin-bottom:20px;
+    }
+    
+    ol{
+        list-style-type: square;
+        display: block;
+
+    }
+    
+    .l1:hover {
+        text-decoration: underline;
+      }
+
+ 
